@@ -34,7 +34,7 @@
 	
 </hgroup>
 
-<img id="icone" src="_imagens/glass-oculos-preto-peq.png"/>
+<img id="icones" src="_imagens/glass-oculos-preto-peq.png"/>
 
 
 <h2>O que é Google Glass</h2>
