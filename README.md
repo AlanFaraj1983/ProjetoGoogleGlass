@@ -59,7 +59,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 		
 <br>		
 
-#### Como baixar o projeto: git clone https://github.com/AlanFaraj1983		
+#### Como baixar o projeto: git clonehttps://github.com/AlanFaraj1983/ProjetoGoogleGlass.git		
 		
 		
 
